@@ -2,7 +2,7 @@
 /**
  * main - variables are first declared
  * main - Prints out the sizes of various data types on the computer
- * Returns: 0
+ * Return: 0
  */
 int main(void)
 {
