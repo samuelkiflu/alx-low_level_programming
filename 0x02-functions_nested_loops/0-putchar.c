@@ -4,10 +4,8 @@
  * _putchar - writes the character c to stdout
  * Return: returns 0
  */
-int main(void)
+int _putchar(char c)
 {
-	char message[] = "_putchar\n";
-
-	write(1, message, sizeof(message) - 1);
+	write(1, &c , sizeof(message) - 1);
 	return (0);
 }
