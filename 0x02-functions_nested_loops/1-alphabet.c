@@ -1,9 +1,9 @@
-#include "./main.h"
+#include "main.h"
 /**
  * print_alphabet - prints the english alphabet from a-z.
  * Return: returns 0.
  */
-void print_alphabet(void)
+int print_alphabet(void)
 {
 	char c;
 
