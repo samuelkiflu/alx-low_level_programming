@@ -2,7 +2,7 @@
 /**
  * main- takes no parameters
  * _putchar - writes the character c to stdout
- *  Return: returns 0 
+ * Return: returns 0 
  */
 
 int main(void)
