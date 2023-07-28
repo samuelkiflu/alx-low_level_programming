@@ -3,8 +3,7 @@
 
 /**
  * rot13 - a function that encodes a string using rot13
- * @s: input parameter 
- *
+ * @s: input parameter
  * Return: encoded string s
  */
 
