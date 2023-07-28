@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_number  a function that prints an integer
- * @m: integer input parameter
+ * print_number -  a function that prints an integer
+ * @n: integer input parameter
  * Return: nothing - void function
  */
 
