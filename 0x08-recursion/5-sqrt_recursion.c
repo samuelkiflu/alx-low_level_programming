@@ -1,6 +1,5 @@
 #include "main.h"
 
-int actual_sqrt_recursion(int n, int i);
 /**
  * actual_sqrt_recursion - a function that recurses
  * to find the natural
