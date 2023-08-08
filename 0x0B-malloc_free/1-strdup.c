@@ -1,17 +1,20 @@
-#include <stdio.h> 
-#include <stdlib.h> 
+#include <stdio.h>
+#include <stdlib.h>
 #include "main.h"
-/** 
-* _strdup - a function that returns a pointer to a newly allocated space in memory, 
-* which contains a copy of the string given as a parameter. 
-* @str: piointer to a character 
-* Return: aaa-  a pointer to a newly allocated space in memory 
+
+/**
+ * _strdup - a function that returns a pointer to a newly
+* allocated space in memory,
+* which contains a copy of the string given as a parameter.
+* @str: piointer to a character
+* Return: aaa-  a pointer to a newly allocated space in memory
 */
 
 char *_strdup(char *str)
 	{
 		char *aaa;
 		int i, r = 0;
+
 		if (str == NULL)
 			return (NULL);
 		i = 0;
