@@ -10,7 +10,6 @@ char *str_concat(char *s1, char *s2)
 	char *p;
 	int s1count, s2count, sizeBuffer, i;
 
-	/*Check for valid strings*/
 	if (s1 == NULL)
 		s1 = "";
 	if (s2 == NULL)
