@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - print numbers from 00 to 999.
+ * main - print numbers from 000 to 999.
  *
  * Return: 0
  */
